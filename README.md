@@ -1,13 +1,23 @@
 <h1 align="center">Hi, I'm REVATHI 👋</h1>
-<h3 align="center">Computer Science & Engineering Student @ Garden City University</h3>
+<h3 align="center">Information Science Student @ Garden City University</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+across+Web+%2B+Electronics+%2B+AI;Open for hackathon collaborations ;Full-Stack+%7C+IoT+%7C+Applied+AI" alt="Typing SVG"; Aspired to experience everything around me via tech />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+across+Web+%2B+Electronics+%2B+AI;Open+for+hackathon+collaborations;Full-Stack+%7C+IoT+%7C+Applied+AI;Aspired+to+experience+everything+around+me+via+tech" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/s-revathi-a0733037a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
+---
+
+### 👋 About Me
+
+I'm an Information Science student at Garden City University, building projects across web development, electronics, and applied AI.
+
+I like turning real problems into working systems — from a Flask-based student marketplace (Campus Cart) to a digitized campus canteen platform, to embedded projects like a NodeMCU-powered status board with a web dashboard.
+
+Currently open to hackathon collaborations and opportunities in full-stack development, IoT, and AI.
 
 ---
 
@@ -32,7 +42,7 @@ Digitized campus canteen platform — real-time menus, UPI payments, token-based
 **[Bakery Status Board](#)**
 NodeMCU ESP8266 + OLED + LEDs, controlled via a self-hosted web interface on the microcontroller.
 
-> Replace the `#` links with your actual repo URLs, and pin these same 6 repos on your GitHub profile (Profile → Customize your pins) so they show up as cards above the README.
+> Replace the `#` links with your actual repo URLs, and pin these same 3 repos on your GitHub profile (Profile → Customize your pins) so they show up as cards above the README.
 
 ---
 
