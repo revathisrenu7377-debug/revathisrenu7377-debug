@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm REVATHI 👋</h1>
-<h3 align="center">Information Science & Engineering Student @ Garden City University</h3>
+<h1 align="center">Hi, I'm REV 👋</h1>
+<h3 align="center">Computer Science & Engineering Student @ Garden City University</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+across+Web+%2B+Electronics+%2B+AI;Currently%3A+MATSYA+%40+Smart+India+Hackathon+2026;Full-Stack+%7C+IoT+%7C+Applied+AI" alt="Typing SVG" />
